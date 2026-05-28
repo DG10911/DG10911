@@ -16,9 +16,9 @@
 
 <br/><br/>
 
-<a href="mailto:sonugoenka40@gmail.com"><img src="https://img.shields.io/badge/-Email-FF006E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/DG10911"><img src="https://img.shields.io/badge/-LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/DG10911"><img src="https://img.shields.io/badge/-X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:devanshgoenka03@gmail.com"><img src="https://img.shields.io/badge/-Email-FF006E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/devanshgoenka79"><img src="https://img.shields.io/badge/-LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <a href="https://github.com/DG10911"><img src="https://img.shields.io/badge/-GitHub-00F5FF?style=for-the-badge&logo=github&logoColor=black" /></a>
 <a href="https://huggingface.co/DG10911"><img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
 
